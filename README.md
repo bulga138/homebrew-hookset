@@ -60,7 +60,7 @@ brew untap bulga138/homebrew-hookset
 
 ## Documentation
 
-For full documentation, visit https://hookset.dev
+For full documentation, visit https://bulga138.github.io/hookset
 
 ## License
 
